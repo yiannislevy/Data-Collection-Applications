@@ -1,6 +1,6 @@
 # Data Collection Applications
 
-A suite of Android + Wear OS applications for real-time inertial, audio and weight data capture. These tools were developed as part of a thesis under the [Multimedia Understanding Group](https://mug.ee.auth.gr/) 🔗 lab of Aristotle University of Thessaloniki.
+A suite of Android + Wear OS applications for real-time inertial, audio and weight data capture. These tools were developed as part of a thesis under the [Multimedia Understanding Group](https://mug.ee.auth.gr/) 🔗 lab of the Electrical and Computer Engineering Department of Aristotle University of Thessaloniki.
 
 ## Thesis: [Estimation of Food Intake Quantity Using Inertial Signals from Smartwatches](https://ikee.lib.auth.gr/record/360195/?ln=en) 🔗
 
