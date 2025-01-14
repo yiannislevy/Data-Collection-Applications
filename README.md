@@ -74,4 +74,4 @@ A suite of Android + Wear OS applications for real-time inertial, audio and weig
 - This project was made under the [Multimedia Understanding Group](https://mug.ee.auth.gr/) 🔗 lab of Aristotle University of Thessaloniki.
 - Audio capture logic and core smartphone app was created by my colleague Georgios Tsakiridis for his [thesis](https://ikee.lib.auth.gr/record/356498/files/Tsakiridis_Georgios.pdf) 🔗 under the same lab.
 
-For further inquiries regarding the applications, my thesis, feel free to contact me at [ioanlevi@ece.auth.gr](mailto:ioanlevi@ece.auth.gr).
+For further inquiries regarding the applications or my thesis, feel free to contact me at [ioanlevi@ece.auth.gr](mailto:ioanlevi@ece.auth.gr).
