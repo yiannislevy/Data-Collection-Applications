@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data Collection App</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="recording_start">Recording start</string>
+    <string name="recording_stop">Recording stop</string>
+    <string name="pair_scale">Pair Scale</string>
+    <string name="bt_device_choose">Choose MANDO-XXXXXX\n(Make sure device is paired\nand ready to connect -\ncheck guide)</string>
+    <string name="cancel_pairing_button">Cancel pairing button</string>
+    <string name="choose">Choose</string>
+    <string name="Set_tare_guide">Put your plate empty on the scale\nand press the set tare button.</string>
+    <string name="set_tare">Set tare</string>
+    <string name="start_weight_monitoring">Start weight\nmonitoring</string>
+    <string name="start_weight_capturing_guide">Tare has been set.\nYou can now fill your plate\nand press the button\nwhen ready to start capturing.</string>
+    <string name="start">Start</string>
+    <string name="stop_weight_capturing">Stop weight\ncapturing</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="cancel_sign_up">Cancel sign up</string>
+    <string name="go_to_sign_up">Go to sign up</string>
+    <string name="upload_to_server_button">Upload to server button</string>
+    <string name="delete">Delete</string>
+</resources>
